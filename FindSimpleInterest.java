@@ -3,7 +3,7 @@ public class FindSimpleInterest {
    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
        System.out.print("enter principal = ");
-       int p = sc.nextInt();
+       int p =sc.nextInt();
        System.out.print("enter rate = ");
        int r = sc.nextInt();
        System.out.print("enter time = ");

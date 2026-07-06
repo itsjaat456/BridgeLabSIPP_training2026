@@ -3,7 +3,7 @@ public class VolumeOfCylinder {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("enter raduis of cylinder = ");
-        int r = sc.nextInt();
+        int r =sc.nextInt();
         System.out.print("enter height of cylinder = ");
         int h = sc.nextInt();
         System.out.println("Volume of cylinder = "+(3.14*r*r*h));

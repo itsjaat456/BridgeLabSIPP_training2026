@@ -8,7 +8,7 @@ public class PowerCalculation {
 
         Scanner sc = new Scanner(System.in);
         System.out.print("enter base = ");
-        int b = sc.nextInt();
+        int b =sc.nextInt();
         System.out.print("enter exponential = ");
         int e = sc.nextInt();
         System.out.println("Power calculate = " + cal(b,e));
